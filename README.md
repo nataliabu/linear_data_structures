@@ -17,4 +17,4 @@ A node has:
 In a linear data structure, each node can have only one link connecting it to
 the next node
 
-[node.py](https://github.com/nataliabu/linear_data_structures/node.py) is my implementation of nodes using python
+[node.py](https://github.com/nataliabu/linear_data_structures/blob/main/node.py) is my implementation of nodes using python
