@@ -37,7 +37,7 @@ linked list are not stored in the memory in a contiguous location. Instead the
 elements are linked using pointers.
 
 This is very cool because it allows us to add, remove and re-order items easily.
-I like to think of linked lists as those wooden train toys with magnets
+I like to think of linked lists as those wooden train toys with magnets 
 connecting the wagons.
 
 [linked_lists.py](https://github.com/nataliabu/linear_data_structures/blob/main/linked_lists.py)
