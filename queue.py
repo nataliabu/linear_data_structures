@@ -24,7 +24,7 @@ class Queue:
     def dequeue(self):
         if self.get_size() > 0:
             item_to_remove = self.head
-            print(str(item_to_remove.get_value()) + " is served!")
+            print(str(item_to_remove.get_value()) + " is dequed!")
             if self.get_size() == 1:
                 self.head = None
                 self.tail = None
@@ -39,7 +39,7 @@ class Queue:
         if self.size > 0:
             return self.head.get_value()
         else:
-            print("No orders waiting!")
+            print("Nothing to see!")
 
     def get_size(self):
         return self.size

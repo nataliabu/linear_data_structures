@@ -7,6 +7,8 @@ A linear data structure has its data elements arranged as a sequence.
 
 ## Nodes
 
+<img src="node.gif" align="right" width=300;>
+
 Nodes are the building blocks of many computer science data
 structures.
 
@@ -23,17 +25,23 @@ the previous node).
 
 ## Linked Lists
 
+<img src="train.gif" align="right" width=300;>
+
 A linked list is a linear data structure. Contrary to arrays, the elements of a
 linked list are not stored in the memory in a contiguous location. Instead the
 elements are linked using pointers.
 
 This is very cool because it allows us to add, remove and re-order items easily.
+I like to think of linked lists as those wooden train toys with magnets
+connecting the wagons.
 
 [linked_lists.py](https://github.com/nataliabu/linear_data_structures/blob/main/linked_lists.py)
 is my implementation of linked lists using python (using also my implementation
 of nodes)
 
 ## Stacks
+
+<img src="stack.gif" align="right" width=300;>
 
 Another useful data structure is the stack. Stacks in computer science work
 pretty simmilar to stacks or piles in real life. In fact, in a wonderful zine
@@ -47,6 +55,8 @@ is my implementation of stacks using python (using also my implementation of
 nodes). It makes use of linked lists as underlying data structure.
 
 ## Queues
+
+<img src="queue_1.gif" align="right" width=300;>
 
 Queues in computer science also resemble queues in real life: if we look at a
 queue in a store, the first customer in the queue is the first to checkout.
