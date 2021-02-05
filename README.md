@@ -7,7 +7,8 @@ A linear data structure has its data elements arranged as a sequence.
 
 ## Nodes
 
-<img src="node.gif" align="right" width=300;>
+<img src="https://github.com/nataliabu/linear_data_structures/blob/main/images/node.gif" align="right" width=300;>
+
 
 Nodes are the building blocks of many computer science data
 structures.
@@ -25,7 +26,7 @@ the previous node).
 
 ## Linked Lists
 
-<img src="train.gif" align="right" width=300;>
+<img src="https://github.com/nataliabu/linear_data_structures/blob/main/images/trains.gif" align="right" width=300;>
 
 A linked list is a linear data structure. Contrary to arrays, the elements of a
 linked list are not stored in the memory in a contiguous location. Instead the
@@ -41,7 +42,7 @@ of nodes)
 
 ## Stacks
 
-<img src="stack.gif" align="right" width=300;>
+<img src="https://github.com/nataliabu/linear_data_structures/blob/main/images/stack.gif" align="right" width=300;>
 
 Another useful data structure is the stack. Stacks in computer science work
 pretty simmilar to stacks or piles in real life. In fact, in a wonderful zine
@@ -56,7 +57,7 @@ nodes). It makes use of linked lists as underlying data structure.
 
 ## Queues
 
-<img src="queue_1.gif" align="right" width=300;>
+<img src="https://github.com/nataliabu/linear_data_structures/blob/main/images/queue_1.gif" align="right" width=300;>
 
 Queues in computer science also resemble queues in real life: if we look at a
 queue in a store, the first customer in the queue is the first to checkout.
