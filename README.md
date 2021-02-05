@@ -44,5 +44,15 @@ A stack follows a last in, first out (LIFO) principle.
 
 [stack.py](https://github.com/nataliabu/linear_data_structures/blob/main/stack.py)
 is my implementation of stacks using python (using also my implementation of
-linked lists (using also my implementation of nodes))
+nodes). It makes use of linked lists as underlying data structure.
 
+## Queues
+
+Queues in computer science also resemble queues in real life: if we look at a
+queue in a store, the first customer in the queue is the first to checkout.
+
+A queue follows a first in, first out (FIFO) principle.
+
+[queue.py](https://github.com/nataliabu/linear_data_structures/blob/main/queue.py)
+is my implementation of stacks using python (using also my implementation of
+nodes). It makes use of linked lists as underlying data structure.
