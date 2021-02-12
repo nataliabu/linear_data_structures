@@ -21,7 +21,7 @@ A node has:
 * Link(s) to other nodes
 
 Since linear data structures are arranged as a sequence, each node can have only
-one link connecting it to the next node (and optionally one link connecting it to 
+one link connecting it to the next node (and optionally one link connecting it to
 the previous node).
 
 [node.py](https://github.com/nataliabu/linear_data_structures/blob/main/node.py) is my implementation of nodes using python
@@ -37,7 +37,7 @@ linked list are not stored in the memory in a contiguous location. Instead the
 elements are linked using pointers.
 
 This is very cool because it allows us to add, remove and re-order items easily.
-I like to think of linked lists as those wooden train toys with magnets 
+I like to think of linked lists as those wooden train toys with magnets
 connecting the wagons.
 
 [linked_lists.py](https://github.com/nataliabu/linear_data_structures/blob/main/linked_lists.py)
@@ -51,7 +51,7 @@ src="https://github.com/nataliabu/linear_data_structures/blob/main/images/stack.
 align="right" width=250;>
 
 Another useful data structure is the stack. Stacks in computer science work
-pretty simmilar to stacks or piles in real life. In fact, in a wonderful zine
+pretty simmilar to stacks in real life. In fact, in a wonderful zine
 called [Hip Hip Array!](https://shop.bubblesort.io/products/hip-hip-array) they
 say they are sure stacks are called after a stack of pancakes :)
 
