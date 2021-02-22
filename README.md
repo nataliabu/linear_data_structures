@@ -24,7 +24,7 @@ Since linear data structures are arranged as a sequence, each node can have only
 one link connecting it to the next node (and optionally one link connecting it to
 the previous node).
 
-[node.py](https://github.com/nataliabu/linear_data_structures/blob/main/node.py) is my implementation of nodes using python
+[node.py](https://github.com/nataliabu/linear_data_structures/blob/main/node.py) is my implementation of nodes using python.
 
 ## Linked Lists
 
@@ -41,8 +41,8 @@ I like to think of linked lists as those wooden train toys with magnets
 connecting the wagons.
 
 [linked_lists.py](https://github.com/nataliabu/linear_data_structures/blob/main/linked_lists.py)
-is my implementation of linked lists using python (using also my implementation
-of nodes)
+is my implementation of linked lists using python (using also
+my implementation of nodes).
 
 ## Stacks
 
@@ -75,3 +75,10 @@ A queue follows a first in, first out (FIFO) principle.
 [queue.py](https://github.com/nataliabu/linear_data_structures/blob/main/queue.py)
 is my implementation of stacks using python (using also my implementation of
 nodes). It makes use of linked lists as underlying data structure.
+
+## Uses of this library
+
+There are many many ways to use the modules of this library!
+I use it [here in my implementation of a game called Towers of
+Hanoi](https://github.com/nataliabu/towers_of_hanoi)
+Feel free to play around with this :)
